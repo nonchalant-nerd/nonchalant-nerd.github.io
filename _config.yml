@@ -5,7 +5,7 @@ description: "Book reviews by a first time reviewer" # This will show up in plac
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "memoirs"
+theme: "jekyll-theme-memoirs"
 
 rss: rss
 
